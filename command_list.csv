@@ -1,0 +1,63 @@
+ cd '/home/lvqarch/Desktop/Git Test Repo'
+ clear
+git man
+man git
+git config --list --show-origin
+git config
+nano git config
+git config user.name leviqsuprenova
+git config user.name "leviqsuprenova"
+cd --
+git config user.name "leviqsuprenova"
+pwd
+ls =a
+ls -a
+cd "Git Test Repo"
+cd ~/Desktop/Git\ Test\ Repo/
+git init
+git config user.name "leviqsuprenova"
+git config user.email "76060258+leviqsupernova@users.noreply.github.com"
+git clone https://github.com/leviqsupernova/HW_10
+cd repo
+cd "HW_10"
+touch text_ignore.txt
+-ls
+ls
+cd --
+ls
+cd ~/Desktop/Git\ Test\ Repo/
+ls
+cd HW_10
+nano .gitignore
+nano .gitignore
+git status
+git add .gitignore
+git commit -m "text_ignore.txt added to .gitignore"
+git config user.name
+git config --list
+git config user.name "leviqsupernova"
+git config user.email "76060258+leviqsupernova@users.noreply.github.com"
+git commit -m "text_ignore.txt added to .gitignore"
+ cd '/home/lvqarch/Desktop/Git Test Repo'
+ clear
+ cd '/home/lvqarch/Desktop/Git Test Repo/.git'
+ cd '/home/lvqarch/Desktop/Git Test Repo'
+ cd '/home/lvqarch/Desktop/Git Test Repo/HW_10'
+sudo pacman -Syu
+ cd /run/user/1000/kio-fuse-pqghXO/trash
+ clear
+ cd /run/media/lvqarch/Elements
+ clear
+ cd /run/media/lvqarch/Elements/MyHeritage
+ cd /run/media/lvqarch/Elements/MyHeritage/Bin
+ cd '/run/media/lvqarch/Elements/MyHeritage/Bin/Video Buddy'
+[200~qdbus org.kde.kglobalaccel /component/krunner org.kde.kglobalaccel.Component.invokeShortcut "Magnifier Toggle"
+~
+qdbus org.kde.kglobalaccel /component/krunner org.kde.kglobalaccel.Component.invokeShortcut "Magnifier Toggle"
+ cd '/home/lvqarch/Desktop/Git Test Repo'
+ clear
+ cd '/home/lvqarch/Desktop/Git Test Repo/HW_10'
+ cd /home/lvqarch/Templates
+ cd '/home/lvqarch/Desktop/Git Test Repo'
+ clear
+ cd '/home/lvqarch/Desktop/Git Test Repo/HW_10'
